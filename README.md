@@ -21,7 +21,7 @@ This project utilizes a pre-trained Faster R-CNN model from the `torchvision` li
 
 ### Cloning the Repository
    
-- Link: [https://github.com/your-username/your-repository.git](https://github.com/mognc/Object-Detection)
+- Link: [https://github.com/mognc/object-detection.git](https://github.com/mognc/Object-Detection)
 - Guide: https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
 
 ### Running the Project
